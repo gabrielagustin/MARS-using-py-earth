@@ -4,10 +4,9 @@ Multivariate Adaptive Regression Splines using py-earth
 
 Dependences:
     
-    python - 
-    python - 
-    python - 
-    python - 
+    python - pyearth
+    python - statistics
+    python - statsmodels
     python - NumPy
     python - Matplolib
 
