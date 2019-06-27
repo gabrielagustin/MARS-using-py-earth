@@ -1,5 +1,6 @@
 # MARS-using-py-earth
-Multivariate Adaptive Regression Splines using py-earth
+
+MARS is a procedure for fitting adaptive non-linear regression that uses piecewise basis functions (Bfs) to define relationships between a response variable and some set of predictors (Friedman 1991).
 
 
 Dependences:
